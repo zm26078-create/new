@@ -7,3 +7,6 @@ document.getElementById(‘who68').innerHTML = '太郎';
 }
 function hanako68() {
 document.getElementById(‘who68').innerHTML = '花子';
+function changeText(word) {
+   document.getElementById("text").textContent = word;
+}
