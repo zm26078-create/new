@@ -14,6 +14,6 @@ function setHanako() {
 }
 // 5. 「変数 + 'が来た'」を表示する関数
 function sayCome() {
-   alert(name + 'が来た');
+   alert(name+ 'が来た');
 }
 
