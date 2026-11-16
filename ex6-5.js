@@ -5,15 +5,15 @@ function sayHello65() {
    alert('Hello' + name + '!');
 }
 // 3. 変数に '太郎' を代入する関数
-function setTaro() {
+function Taro65() {
    name = '太郎';
 }
 // 4. 変数に '花子' を代入する関数
-function setHanako() {
+function Hanako65() {
    name = '花子';
 }
 // 5. 「変数 + 'が来た'」を表示する関数
-function sayCome() {
+function sayCome65() {
    alert(name+ 'が来た');
 }
 
